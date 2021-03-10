@@ -1,7 +1,5 @@
 # Deversifi Coding Challenge
 
-Source: https://docs.google.com/document/d/1ACPYGtGSSKczvJ5gaMs1obzrfl_zrDbpLk0McRQ3id0/edit
-
 ## Task
 
 Create a simple market making bot using Node.js
@@ -31,3 +29,19 @@ e.g. FILLED BID @ PRICE AMOUNT (ETH - x.xxx USD + yyyy)
 - Keep the implementation simple
 - Code should be clean and readable with appropriate test cases
 - The task is not to evaluate your trading algorithm (but feel free to have fun with this part)
+
+## Setup
+
+Install dependencies
+
+```
+npm install
+```
+
+## Run
+
+Run the application
+
+```
+npm start
+```
